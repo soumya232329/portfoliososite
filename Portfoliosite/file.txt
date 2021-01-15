@@ -1,0 +1,10 @@
+.about-section .experience{
+    padding-bottom: 80px;
+    margin-top: 50px ; /*me added*/  LINE 584
+}
+
+/==========  commanly used ==============/
+.portfolio-section .portfolio-filter{
+    flex: 0 0 100%;
+    max-width: 100%;
+    
